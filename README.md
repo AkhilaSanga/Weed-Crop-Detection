@@ -1,5 +1,4 @@
 # Weed Detector
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=flat-square)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/torch?style=flat-square)
 
 Weeds in crops are every farmer's nightmare and removing them is a very time consuming and labor intensive job. This web app can assist farmer's in detecting weeds among acres of land with the motivation to save time and energy. 
